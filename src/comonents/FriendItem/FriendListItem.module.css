@@ -1,0 +1,20 @@
+
+.nameFriends{
+    font-size: 24px;
+   margin: 15px 0;
+   display: flex;
+    justify-content: center;
+}
+
+.offline {
+    margin: 0;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.online {
+    margin: 0;
+    color: green;
+    display: flex;
+    justify-content: center;
+}

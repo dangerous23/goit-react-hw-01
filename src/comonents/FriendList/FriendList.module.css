@@ -1,0 +1,23 @@
+.friendsList{
+    margin-top: 50px;
+    
+display: flex;
+justify-content: space-around;
+}
+
+.friendsList li{
+    display: flex;
+    flex-direction: column; /* Расположение элементов по вертикали */
+    align-items: center;    /* Центрирование по горизонтали */
+    justify-content: center;
+    text-align: center; /* Центрирование по вертикали */
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 90px;
+    height: 130px;
+    margin: 0px;
+    }
+
+
+    
